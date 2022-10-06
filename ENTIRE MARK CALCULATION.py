@@ -1,0 +1,9 @@
+tam = 50
+eng = 60
+mat = 50
+sci = 50
+soc = 50
+total =tam+eng+mat+sci+soc
+avg=total/5
+print("total=",total)
+print("avg=",avg)
